@@ -1,9 +1,8 @@
 # Análise de portfólio de ações
 
 
-### Python notebook que extrai dados de um portfólio de ações do site Yahoo e realiza análises para avaliar o retorno esperado.
+### Python notebook que extrai dados de um portfólio de ações do site Yahoo e realiza as seguintes análises: 
 
-#### São realizadas as seguintes etapas:
 #### 1- Cálculo da taxa de retorno histórica do portfólio. 
 #### 2- Medição do risco.
 #### 3- Otimização de Portfólio de Markowitz.
