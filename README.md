@@ -3,12 +3,13 @@
 
 ### Python notebook que extrai dados de um portfólio de ações do site Yahoo e realiza as seguintes análises: 
 
-#### 1- Cálculo da taxa de retorno histórica do portfólio. 
-#### 2- Medição do risco.
-#### 3- Otimização de Portfólio de Markowitz.
-#### 4- Modelo de Precificação de Ativos Financeiros (CAPM).
-#### 5- Análise de Regressão Multivariada.
-#### 6- Simulação de Monte Carlo.
+#### 1- Extração dos dados de um portfólio de ações do site Yahoo Finance.
+#### 2- Cálculo da taxa de retorno histórica do portfólio. 
+#### 3- Medição do risco.
+#### 4- Otimização de Portfólio de Markowitz.
+#### 5- Modelo de Precificação de Ativos Financeiros (CAPM).
+#### 6- Análise de Regressão Multivariada.
+#### 7- Simulação de Monte Carlo.
 
 
 #### Link para acessar com Google Colaboratory:
