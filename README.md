@@ -8,8 +8,7 @@
 #### 3- Medição do risco.
 #### 4- Otimização de Portfólio de Markowitz.
 #### 5- Modelo de Precificação de Ativos Financeiros (CAPM).
-#### 6- Análise de Regressão Multivariada.
-#### 7- Simulação de Monte Carlo.
+#### 6- Simulação de Monte Carlo.
 
 
 #### Link para acessar com Google Colaboratory:
